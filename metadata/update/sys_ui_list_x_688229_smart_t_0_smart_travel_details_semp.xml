@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_688229_smart_t_0_smart_travel_details" version="2" view="Semp">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>a79477c8935493d01dee7fddfaba1003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>a79477c8935493d01dee7fddfaba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>from</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>2f9477c8935493d01dee7fddfaba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>destination</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>a39477c8935493d01dee7fddfaba1005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>2b9477c8935493d01dee7fddfaba1005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>return_date</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>af94f7cc935493d01dee7fddfaba10df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>return</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>2794f7cc935493d01dee7fddfaba10e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>travel_type</element>
+            <list_id display_value="x_688229_smart_t_0_smart_travel_details" element="NULL" name="x_688229_smart_t_0_smart_travel_details" parent="NULL" relationship="NULL" sys_domain="global" view="83003700935493d01dee7fddfaba1054">2f9477c8935493d01dee7fddfaba1000</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_id>ab94f7cc935493d01dee7fddfaba10e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_688229_smart_t_0_smart_travel_details</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:27:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f9477c8935493d01dee7fddfaba1000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_688229_smart_t_0_smart_travel_details</sys_name>
+            <sys_package display_value="Smart Travel Management" source="x_688229_smart_t_0">ee2ea15e930c5b501dee7fddfaba1077</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Smart Travel Management">ee2ea15e930c5b501dee7fddfaba1077</sys_scope>
+            <sys_update_name>sys_ui_list_x_688229_smart_t_0_smart_travel_details_Semp</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:27:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Semp" name="Semp">83003700935493d01dee7fddfaba1054</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

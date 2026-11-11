@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7a92bb08935493d01dee7fddfaba105a" sys_domain="global" table="x_688229_smart_t_0_smart_travel_details" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:19:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c792bb08935493d01dee7fddfaba10dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_688229_smart_t_0_smart_travel_details" name="x_688229_smart_t_0_smart_travel_details" sys_domain="global" view="83003700935493d01dee7fddfaba1054">7a92bb08935493d01dee7fddfaba105a</sys_ui_form>
+            <sys_ui_section caption="x_688229_smart_t_0_smart_travel_details" display_value="x_688229_smart_t_0_smart_travel_details" name="x_688229_smart_t_0_smart_travel_details" sys_domain="global" view="83003700935493d01dee7fddfaba1054">c7003700935493d01dee7fddfaba105c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:19:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:19:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0392bb08935493d01dee7fddfaba10df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_688229_smart_t_0_smart_travel_details" name="x_688229_smart_t_0_smart_travel_details" sys_domain="global" view="83003700935493d01dee7fddfaba1054">7a92bb08935493d01dee7fddfaba105a</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_688229_smart_t_0_smart_travel_details" sys_domain="global" view="83003700935493d01dee7fddfaba1054">3a92bb08935493d01dee7fddfaba1057</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:19:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:19:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f92bb08935493d01dee7fddfaba10e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_688229_smart_t_0_smart_travel_details" name="x_688229_smart_t_0_smart_travel_details" sys_domain="global" view="83003700935493d01dee7fddfaba1054">7a92bb08935493d01dee7fddfaba105a</sys_ui_form>
+            <sys_ui_section caption="Assignments" display_value="Assignments" name="x_688229_smart_t_0_smart_travel_details" sys_domain="global" view="83003700935493d01dee7fddfaba1054">b292bb08935493d01dee7fddfaba1059</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:19:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_688229_smart_t_0_smart_travel_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:19:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a92bb08935493d01dee7fddfaba105a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_688229_smart_t_0_smart_travel_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Smart Travel Management" source="x_688229_smart_t_0">ee2ea15e930c5b501dee7fddfaba1077</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Smart Travel Management">ee2ea15e930c5b501dee7fddfaba1077</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7a92bb08935493d01dee7fddfaba105a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:19:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Semp" name="Semp">83003700935493d01dee7fddfaba1054</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

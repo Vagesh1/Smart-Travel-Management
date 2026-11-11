@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="ff2009fa93c8df501dee7fddfaba1073" extends="task" label="Smart Travel Details" max_length="40" name="x_688229_smart_t_0_smart_travel_details" type="collection">
+        <element label="Passport Details" max_length="40" name="passport_details" type="string"/>
+        <element label="Visa Details" max_length="40" name="visa_details" type="string"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Destination" max_length="32" name="destination" reference="cmn_location" type="reference"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date"/>
+        <element label="From" max_length="32" name="from" reference="cmn_location" type="reference"/>
+        <element label="Return" max_length="40" name="return" type="boolean"/>
+        <element choice="1" label="Travel Type" max_length="40" name="travel_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="International" sequence="0" value="international"/>
+                <element inactive_on_update="false" label="Domestic" sequence="1" value="domestic"/>
+            </choice>
+        </element>
+        <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+    </element>
+</database>
