@@ -7,6 +7,7 @@
         <element label="Return Date" max_length="40" name="return_date" type="glide_date"/>
         <element label="From" max_length="32" name="from" reference="cmn_location" type="reference"/>
         <element label="Return" max_length="40" name="return" type="boolean"/>
+        <element label="Title" max_length="40" name="title" read_only="true" read_only_option="display_read_only" type="string"/>
         <element choice="1" label="Travel Type" max_length="40" name="travel_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="International" sequence="0" value="international"/>
@@ -14,5 +15,6 @@
             </choice>
         </element>
         <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element label="Manager" max_length="40" name="manager" read_only="true" read_only_option="display_read_only" type="string"/>
     </element>
 </database>
