@@ -5,6 +5,18 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '0dd6526493e857501dee7fddfaba102d': {
+                        table: 'sys_security_acl'
+                        id: '0dd6526493e857501dee7fddfaba102d'
+                    }
+                    '109f49c693149b141dee7fddfaba1055': {
+                        table: 'sys_script_client'
+                        id: '109f49c693149b141dee7fddfaba1055'
+                    }
+                    '17abc5cd9324db501dee7fddfaba103b': {
+                        table: 'sys_scope_privilege'
+                        id: '17abc5cd9324db501dee7fddfaba103b'
+                    }
                     '193089fa93c8df501dee7fddfaba10ed': {
                         table: 'sys_security_acl'
                         id: '193089fa93c8df501dee7fddfaba10ed'
@@ -13,33 +25,101 @@ declare global {
                         table: 'sys_security_acl'
                         id: '25300dfa93c8df501dee7fddfaba1052'
                     }
+                    '2c88f63893a45b501dee7fddfaba102e': {
+                        table: 'sys_script_client'
+                        id: '2c88f63893a45b501dee7fddfaba102e'
+                    }
+                    '3bac9dc59328db501dee7fddfaba1029': {
+                        table: 'sys_ui_action'
+                        id: '3bac9dc59328db501dee7fddfaba1029'
+                    }
+                    '44890d4d93e0db501dee7fddfaba10af': {
+                        table: 'sys_script_client'
+                        id: '44890d4d93e0db501dee7fddfaba10af'
+                    }
+                    '4540a9899328db501dee7fddfaba1041': {
+                        table: 'sys_scope_privilege'
+                        id: '4540a9899328db501dee7fddfaba1041'
+                    }
+                    '50f72a7093e05b501dee7fddfaba10e7': {
+                        table: 'sys_script_client'
+                        id: '50f72a7093e05b501dee7fddfaba10e7'
+                    }
                     '513089fa93c8df501dee7fddfaba10f9': {
                         table: 'sys_security_acl'
                         id: '513089fa93c8df501dee7fddfaba10f9'
+                    }
+                    '5c2f185093ac13501dee7fddfaba10b4': {
+                        table: 'sys_script'
+                        id: '5c2f185093ac13501dee7fddfaba10b4'
                     }
                     '5d30c9fa93c8df501dee7fddfaba1080': {
                         table: 'sys_security_acl'
                         id: '5d30c9fa93c8df501dee7fddfaba1080'
                     }
+                    '6878335293d813101dee7fddfaba1049': {
+                        table: 'sys_script_client'
+                        id: '6878335293d813101dee7fddfaba1049'
+                    }
+                    '6b2468ed932453901dee7fddfaba10f4': {
+                        table: 'ml_training_request_schedule'
+                        id: '6b2468ed932453901dee7fddfaba10f4'
+                    }
+                    '74dc2a7c93e05b501dee7fddfaba1044': {
+                        table: 'sys_script_client'
+                        id: '74dc2a7c93e05b501dee7fddfaba1044'
+                    }
                     '79300dfa93c8df501dee7fddfaba10cb': {
                         table: 'sys_security_acl'
                         id: '79300dfa93c8df501dee7fddfaba10cb'
+                    }
+                    '8c1c73fe939013101dee7fddfaba105b': {
+                        table: 'sys_script'
+                        id: '8c1c73fe939013101dee7fddfaba105b'
                     }
                     '9530c9fa93c8df501dee7fddfaba1075': {
                         table: 'sys_security_acl'
                         id: '9530c9fa93c8df501dee7fddfaba1075'
                     }
+                    '96c3b5d293109f141dee7fddfaba1094': {
+                        table: 'sys_script_client'
+                        id: '96c3b5d293109f141dee7fddfaba1094'
+                    }
                     a1300dfa93c8df501dee7fddfaba105f: {
                         table: 'sys_security_acl'
                         id: 'a1300dfa93c8df501dee7fddfaba105f'
+                    }
+                    a1b43af893645b501dee7fddfaba1087: {
+                        table: 'sys_security_acl'
+                        id: 'a1b43af893645b501dee7fddfaba1087'
+                    }
+                    ab2468ed932453901dee7fddfaba10bc: {
+                        table: 'ml_training_request_schedule'
+                        id: 'ab2468ed932453901dee7fddfaba10bc'
+                    }
+                    ab9f5ea0936c57501dee7fddfaba10aa: {
+                        table: 'sys_security_acl'
+                        id: 'ab9f5ea0936c57501dee7fddfaba10aa'
+                    }
+                    b0ea164693d0db141dee7fddfaba101e: {
+                        table: 'sys_script_client'
+                        id: 'b0ea164693d0db141dee7fddfaba101e'
                     }
                     bd300dfa93c8df501dee7fddfaba10e4: {
                         table: 'sys_security_acl'
                         id: 'bd300dfa93c8df501dee7fddfaba10e4'
                     }
+                    beeed620936c57501dee7fddfaba1008: {
+                        table: 'sys_security_acl'
+                        id: 'beeed620936c57501dee7fddfaba1008'
+                    }
                     bom_json: {
                         table: 'sys_module'
                         id: '598ad4dfeb544e2ea5128569742dec1a'
+                    }
+                    c993323893645b501dee7fddfaba1020: {
+                        table: 'sys_script_include'
+                        id: 'c993323893645b501dee7fddfaba1020'
                     }
                     d530c9fa93c8df501dee7fddfaba1069: {
                         table: 'sys_security_acl'
@@ -52,6 +132,18 @@ declare global {
                     e1300dfa93c8df501dee7fddfaba106a: {
                         table: 'sys_security_acl'
                         id: 'e1300dfa93c8df501dee7fddfaba106a'
+                    }
+                    e3e89d8693549b141dee7fddfaba100b: {
+                        table: 'sys_script_client'
+                        id: 'e3e89d8693549b141dee7fddfaba100b'
+                    }
+                    f295b71a931813101dee7fddfaba10a9: {
+                        table: 'sys_script_client'
+                        id: 'f295b71a931813101dee7fddfaba10a9'
+                    }
+                    f51c12e4932c57501dee7fddfaba1078: {
+                        table: 'sys_security_acl'
+                        id: 'f51c12e4932c57501dee7fddfaba1078'
                     }
                     package_json: {
                         table: 'sys_module'
@@ -136,6 +228,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: '0d11bbc0935493d01dee7fddfaba10d7'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -148,6 +241,32 @@ declare global {
                             }
                             element: 'return_date'
                             position: '8'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '10e609cd93e0db501dee7fddfaba109b'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'state'
+                            position: '8'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: '11961c8dc0d74e649416ebb5dec4828c'
+                        key: {
+                            name: 'x_688229_smart_t_0_smart_travel_details'
+                            element: 'title'
+                            language: 'en'
                         }
                     },
                     {
@@ -166,6 +285,57 @@ declare global {
                             name: 'x_688229_smart_t_0_smart_travel_details'
                             element: 'return_date'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '14e609cd93e0db501dee7fddfaba1099'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'passport_details'
+                            position: '6'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '18e609cd93e0db501dee7fddfaba109e'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'title'
+                            position: '12'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '1ce609cd93e0db501dee7fddfaba109c'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'return_date'
+                            position: '10'
                         }
                     },
                     {
@@ -228,6 +398,19 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_security_acl_role'
+                        id: '24fed220936c57501dee7fddfaba10b0'
+                        key: {
+                            sys_security_acl: 'beeed620936c57501dee7fddfaba1008'
+                            sys_user_role: {
+                                id: '6a2ea15e930c5b501dee7fddfaba10b9'
+                                key: {
+                                    name: 'x_688229_smart_t_0.user'
+                                }
+                            }
+                        }
+                    },
+                    {
                         table: 'sys_ui_list_element'
                         id: '2794f7cc935493d01dee7fddfaba10e0'
                         key: {
@@ -243,6 +426,19 @@ declare global {
                                 }
                             }
                             element: 'return'
+                        }
+                    },
+                    {
+                        table: 'sys_security_acl_role'
+                        id: '282c92e4932c57501dee7fddfaba10a5'
+                        key: {
+                            sys_security_acl: 'f51c12e4932c57501dee7fddfaba1078'
+                            sys_user_role: {
+                                id: '662ea15e930c5b501dee7fddfaba10ae'
+                                key: {
+                                    name: 'x_688229_smart_t_0.admin'
+                                }
+                            }
                         }
                     },
                     {
@@ -382,6 +578,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: '4111bbc0935493d01dee7fddfaba10d7'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -484,6 +681,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: '4d11bbc0935493d01dee7fddfaba10d9'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -564,6 +762,19 @@ declare global {
                             }
                             element: 'short_description'
                             position: '9'
+                        }
+                    },
+                    {
+                        table: 'sys_security_acl_role'
+                        id: '61b4baf893645b501dee7fddfaba10e6'
+                        key: {
+                            sys_security_acl: 'a1b43af893645b501dee7fddfaba1087'
+                            sys_user_role: {
+                                id: '2831a114c611228501d4ea6c309d626d'
+                                key: {
+                                    name: 'admin'
+                                }
+                            }
                         }
                     },
                     {
@@ -753,6 +964,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: '8111bbc0935493d01dee7fddfaba10d9'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -792,6 +1004,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: '8511bbc0935493d01dee7fddfaba10d6'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -866,11 +1079,79 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '90e609cd93e0db501dee7fddfaba109a'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: '.split'
+                            position: '7'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '9352e10a58564056b90cea33cb08e941'
                         key: {
                             name: 'x_688229_smart_t_0_smart_travel_details'
                             element: 'passport_details'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '94e609cd93e0db501dee7fddfaba1098'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'visa_details'
+                            position: '5'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '94e609cd93e0db501dee7fddfaba109f'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'manager'
+                            position: '13'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '98e609cd93e0db501dee7fddfaba109d'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'caller'
+                            position: '11'
                         }
                     },
                     {
@@ -888,6 +1169,31 @@ declare global {
                             element: 'NULL'
                             relationship: 'NULL'
                             parent: 'NULL'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '9ce609cd93e0db501dee7fddfaba109b'
+                        key: {
+                            sys_ui_section: {
+                                id: 'c7003700935493d01dee7fddfaba105c'
+                                key: {
+                                    name: 'x_688229_smart_t_0_smart_travel_details'
+                                    caption: 'x_688229_smart_t_0_smart_travel_details'
+                                    view: '83003700935493d01dee7fddfaba1054'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'destination'
+                            position: '9'
+                        }
+                    },
+                    {
+                        table: 'sys_dictionary'
+                        id: '9f444d99b36f47a0b8198c0551ff1311'
+                        key: {
+                            name: 'x_688229_smart_t_0_smart_travel_details'
+                            element: 'manager'
                         }
                     },
                     {
@@ -1006,6 +1312,19 @@ declare global {
                     },
                     {
                         table: 'sys_security_acl_role'
+                        id: 'abd6d26493e857501dee7fddfaba1027'
+                        key: {
+                            sys_security_acl: '0dd6526493e857501dee7fddfaba102d'
+                            sys_user_role: {
+                                id: '6a2ea15e930c5b501dee7fddfaba10b9'
+                                key: {
+                                    name: 'x_688229_smart_t_0.user'
+                                }
+                            }
+                        }
+                    },
+                    {
+                        table: 'sys_security_acl_role'
                         id: 'ad300dfa93c8df501dee7fddfaba1047'
                         key: {
                             sys_security_acl: '9530c9fa93c8df501dee7fddfaba1075'
@@ -1069,6 +1388,15 @@ declare global {
                         key: {
                             name: 'x_688229_smart_t_0_smart_travel_details'
                             element: 'travel_type'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: 'b3f34fec419b4469b48b558ed45f433c'
+                        key: {
+                            name: 'x_688229_smart_t_0_smart_travel_details'
+                            element: 'manager'
+                            language: 'en'
                         }
                     },
                     {
@@ -1145,6 +1473,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: 'c511bbc0935493d01dee7fddfaba10d8'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -1217,6 +1546,7 @@ declare global {
                     {
                         table: 'sys_ui_element'
                         id: 'c911bbc0935493d01dee7fddfaba10d5'
+                        deleted: true
                         key: {
                             sys_ui_section: {
                                 id: 'c7003700935493d01dee7fddfaba105c'
@@ -1263,6 +1593,27 @@ declare global {
                             }
                             element: '.split'
                             position: '2'
+                        }
+                    },
+                    {
+                        table: 'sys_dictionary'
+                        id: 'cd2af2ca650d47aabee0af1a287f9fc6'
+                        key: {
+                            name: 'x_688229_smart_t_0_smart_travel_details'
+                            element: 'title'
+                        }
+                    },
+                    {
+                        table: 'sys_security_acl_role'
+                        id: 'ceafdea0936c57501dee7fddfaba1098'
+                        key: {
+                            sys_security_acl: 'ab9f5ea0936c57501dee7fddfaba10aa'
+                            sys_user_role: {
+                                id: '662ea15e930c5b501dee7fddfaba10ae'
+                                key: {
+                                    name: 'x_688229_smart_t_0.admin'
+                                }
+                            }
                         }
                     },
                     {
